@@ -61,10 +61,10 @@
   notes: Free trial available
 
 - name: The Art of Computer Programming
-  url: http://broiler.astrometry.net/~kilian/The_Art_of_Computer_Programming%20-%20Vol%201.pdf
+  url: https://www.informit.com/promotions/art-of-computer-programming-books-and-ebooks-140521
   category: Books
   languages:
-  paid: false
+  paid: true
   notes: General Computer Science concepts
 
 - name: The Mythical Man Month
@@ -131,7 +131,7 @@
   notes: Good info for start ups
 
 - name: Hacking The Art of Exploitation
-  url: https://leaksource.files.wordpress.com/2014/08/hacking-the-art-of-exploitation.pdf
+  url: https://smile.amazon.com/Hacking-Art-Exploitation-Jon-Erickson-ebook/dp/B004OEJN3I
   category: Books
   languages: ["C"]
   paid: false
